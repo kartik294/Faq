@@ -1,0 +1,52 @@
+{
+  "faqs": [
+    {
+      "questions": "What is React?",
+      "answers": "React is a JavaScript library for building user interfaces, maintained by Facebook."
+    },
+    {
+      "questions": "What is Vite?",
+      "answers": "Vite is a modern frontend build tool that is fast and optimized for web development."
+    },
+    {
+      "questions": "What is the purpose of CQRS?",
+      "answers": "CQRS (Command Query Responsibility Segregation) separates the responsibilities of updating data (commands) and reading data (queries) to improve scalability and maintainability."
+    },
+    {
+      "questions": "What is event sourcing?",
+      "answers": "Event sourcing is a design pattern where changes to application state are stored as a sequence of events, rather than just storing the current state."
+    },
+    {
+      "questions": "What is the difference between frontend and backend?",
+      "answers": "Frontend refers to the part of an application users interact with directly, while backend involves the server-side logic, database management, and APIs."
+    },
+    {
+      "questions": "What is JavaScript?",
+      "answers": "JavaScript is a programming language used to create interactive and dynamic content on websites."
+    },
+    {
+      "questions": "What is Node.js?",
+      "answers": "Node.js is a runtime environment that allows developers to execute JavaScript code outside the browser, typically for server-side development."
+    },
+    {
+      "questions": "What is Tailwind CSS?",
+      "answers": "Tailwind CSS is a utility-first CSS framework for building custom user interfaces quickly and efficiently."
+    },
+    {
+      "questions": "What is the difference between SQL and NoSQL databases?",
+      "answers": "SQL databases are relational and use structured query language, while NoSQL databases are non-relational and can handle unstructured or semi-structured data."
+    },
+    {
+      "questions": "What is REST API?",
+      "answers": "A REST API (Representational State Transfer) is an architectural style for designing networked applications, where resources are accessed via standardized HTTP methods."
+    },
+    {
+      "questions": "What is Git?",
+      "answers": "Git is a distributed version control system that allows developers to track changes in their codebase and collaborate with others."
+    },
+    {
+      "questions": "What is Docker?",
+      "answers": "Docker is a platform that allows developers to package applications and their dependencies into containers, ensuring consistency across environments."
+    }
+  ]
+}
